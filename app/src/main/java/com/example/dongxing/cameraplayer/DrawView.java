@@ -158,7 +158,7 @@ public class DrawView extends View {
         }
         return file;
     }
-//jhkhj
+//Log.d("DrawView", "bos="+bos.toString());
 }
 
 
