@@ -100,4 +100,5 @@ public class MainActivity extends AppCompatActivity {
         BitmapDrawable bd1=new BitmapDrawable(bitmapfromMain1);
         return bd1;
     }
+// try tongbu
 }
