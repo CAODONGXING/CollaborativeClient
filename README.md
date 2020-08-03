@@ -1,6 +1,15 @@
 Image-based collaborative annotation system
 =======
     
+Overview
+-----------------------
+
+To see a demo video, click the screenshot (right). =>
+
+  <img alt="PicSciP Demo Video" src="https://github.com/CAODONGXING/CollaborativeClient/blob/master/Overview.png"  />
+
+    
+    
 Screenshot & Demo Video
 -----------------------
 
